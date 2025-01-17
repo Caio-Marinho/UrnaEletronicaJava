@@ -1,4 +1,4 @@
-public class Candidato {
+public abstract class Candidato {
     // Atributos para representar um candidato
     private String _nome;
     private int _numero;
