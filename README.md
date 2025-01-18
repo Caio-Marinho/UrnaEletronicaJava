@@ -39,9 +39,6 @@ Este projeto consiste em uma simulação de urna eletrônica simplificada, desen
 - `ArrayList <Candidato> getCandidato()`: Retorna um ArrayList dos candidatos
 - `int receberVoto(int numero)`: Vota em um candidato.
 - `int votantes()`: Calcula o número de votantes, sendo sempre o dobro da quantidade de candidatos.
-
-### Arquivo Main.java
-
 - `Main`: Método que irá Exercutar o Programa.
 
 ### Menu.java
@@ -110,9 +107,8 @@ java Main
 Alternativamente, navegue para dentro da pasta onde estão os seguintes arquivos junto com arquivos .class:
 
 - `Candidato.java`
-- `UrnaEletronica.java`
+- `UrnaEletronicaJava.java`
 - `Menu.java`
-- `Main.java`
 - `Resultados.java`
 - `ValidadorDeVotos`
 - `README.md`
