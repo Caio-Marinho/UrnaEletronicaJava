@@ -43,14 +43,17 @@ Este projeto consiste em uma simulação de urna eletrônica simplificada, desen
 
 ### Menu.java
 
+#### Métodos/Funções
 - `Menu(ArrayList<Candidato> candidato)`: Método para Lista os candidatos.
 
 ### ValidadorDeVotos.java
 
+#### Métodos/Funções
 - `validarVotos(String voto)`: Método para Validar a entrada de dados.
 
 ### Resuldados.java
 
+#### Métodos/Funções
 - `void apurarResultados(ArrayList<Candidato> candidato,int votantes,int votosNulos)`: Apura os votos.
 - `void exibirResultados(ArrayList<Candidato> candidato)`: Exibe os resultados da votação.
 - `double totaisVotosValidos(int votantes, int votosNulos)`: Calcula os votos validos de acordo com os Votos Nulos.
