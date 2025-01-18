@@ -101,10 +101,20 @@ OU:
 ```bash
 javac Main.java & java Main
 ```
-Alternativamente, navegue para dentro da pasta onde estão os seguintes arquivos:
+Caso tenha feito alguma modificação, se não execute no terminal somente o comando:
+
+```bash
+java Main
+```
+
+Alternativamente, navegue para dentro da pasta onde estão os seguintes arquivos junto com arquivos .class:
 
 - `Candidato.java`
-- `UrnaEletronicaJava.java`
+- `UrnaEletronica.java`
+- `Menu.java`
+- `Main.java`
+- `Resultados.java`
+- `ValidadorDeVotos`
 - `README.md`
 - `LICENSE`
 
