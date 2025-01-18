@@ -86,22 +86,22 @@ Em seguida abra o seu Visual Studio Code(VS code) e baixe as extensões
 No VS Code, dentro da pasta do repositório, execute os seguintes comandos no terminal:
 
 ```bash
-javac Main.java
+javac UrnaEletronicaJava.java
 ```
 E
 
 ```bash
-java Main
+java UrnaEletronicaJava
 ```
 OU:
 
 ```bash
-javac Main.java & java Main
+javac UrnaEletronicaJava.java & java UrnaEletronicaJava
 ```
 Caso tenha feito alguma modificação, se não execute no terminal somente o comando:
 
 ```bash
-java Main
+java UrnaEletronicaJava
 ```
 
 Alternativamente, navegue para dentro da pasta onde estão os seguintes arquivos junto com arquivos .class:
